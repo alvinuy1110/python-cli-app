@@ -2,6 +2,17 @@ Click Example
 =============
 CLI using Click
 
+# Generate PIP requirements
+
+```
+pip freeze > requirements.txt
+```
+
+## install
+```
+pip install -r requirements.txt
+```
+
 # Setup
 
 * pip install click
